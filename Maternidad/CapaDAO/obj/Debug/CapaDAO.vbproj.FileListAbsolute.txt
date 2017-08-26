@@ -1,0 +1,9 @@
+D:\MATERNIDAD\Maternidad\CapaDAO\bin\Debug\CapaDAO.dll
+D:\MATERNIDAD\Maternidad\CapaDAO\bin\Debug\CapaDAO.pdb
+D:\MATERNIDAD\Maternidad\CapaDAO\bin\Debug\CapaDAO.xml
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.vbprojResolveAssemblyReference.cache
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.Resources.resources
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.vbproj.GenerateResource.Cache
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.dll
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.xml
+D:\MATERNIDAD\Maternidad\CapaDAO\obj\Debug\CapaDAO.pdb

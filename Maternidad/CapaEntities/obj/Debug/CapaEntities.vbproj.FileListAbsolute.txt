@@ -1,0 +1,8 @@
+D:\MATERNIDAD\Maternidad\CapaEntities\bin\Debug\CapaEntities.dll
+D:\MATERNIDAD\Maternidad\CapaEntities\bin\Debug\CapaEntities.pdb
+D:\MATERNIDAD\Maternidad\CapaEntities\bin\Debug\CapaEntities.xml
+D:\MATERNIDAD\Maternidad\CapaEntities\obj\Debug\CapaEntities.Resources.resources
+D:\MATERNIDAD\Maternidad\CapaEntities\obj\Debug\CapaEntities.vbproj.GenerateResource.Cache
+D:\MATERNIDAD\Maternidad\CapaEntities\obj\Debug\CapaEntities.dll
+D:\MATERNIDAD\Maternidad\CapaEntities\obj\Debug\CapaEntities.xml
+D:\MATERNIDAD\Maternidad\CapaEntities\obj\Debug\CapaEntities.pdb

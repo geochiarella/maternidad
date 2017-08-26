@@ -1,0 +1,9 @@
+D:\MATERNIDAD\Maternidad\CapaLogic\bin\Debug\CapaLogic.dll
+D:\MATERNIDAD\Maternidad\CapaLogic\bin\Debug\CapaLogic.pdb
+D:\MATERNIDAD\Maternidad\CapaLogic\bin\Debug\CapaLogic.xml
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.vbprojResolveAssemblyReference.cache
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.Resources.resources
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.vbproj.GenerateResource.Cache
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.dll
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.xml
+D:\MATERNIDAD\Maternidad\CapaLogic\obj\Debug\CapaLogic.pdb
